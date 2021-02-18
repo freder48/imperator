@@ -75,6 +75,21 @@
 
 .emailBtn{
   margin-left: 5rem;
+  background-color: #024058;
+  border-radius: 2px;
+  border: 1px solid #024058;
+  box-shadow: none;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 300;
+  line-height: 1;
+  min-height: 25px;
+  text-align: center;
+  -webkit-transition: color 0.2s, border 0.2s;
+  transition: color 0.2s, border 0.2s;
+  letter-spacing: 0.19px;
+  white-space: nowrap;
+  margin-right: 10px;
 }
 
 .planRender {

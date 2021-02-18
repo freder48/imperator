@@ -2,12 +2,14 @@
 
 Imperator is an internal tool to easily see client information in one place. With this dashboard you can automate internal processes such as extending trails, following up emails to canceled clients, discount offers, resetting passwords, updating client info, GDPR for company’s data, and display information from various APIs. Solving the issue of manually going through multiple processes and systems to update this information. Imperator was a group project completed fully remotely in a two-week sprint.
 
+See the deployed version on [Heroku](https://stormy-tundra-88052.herokuapp.com/#/operational)
+
 ## Group members
 
-[@Brady](https://github.com/bradybaker)
-[@Malik](https://github.com/MalikElate)
-[@Josie](https://github.com/freder48)
-[@Kim](https://github.com/korchard)
+[Brady Baker](https://github.com/bradybaker)
+[Malik Elate](https://github.com/MalikElate)
+[James Posey](https://github.com/jposeyjr)
+[Kim Orchard](https://github.com/korchard)
 
 ## Built With
 
@@ -61,7 +63,6 @@ Run the following commands from within your project folder.
 2. In terminal, navigate to your project folder and type `heroku create`
 3. Type `git remote -v` to ensure it added successfully
 4. In terminal, type `git push heroku main`
-5. Our website is now live! However... we also have a database
 
 ## Screenshots
 
