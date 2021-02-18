@@ -1,6 +1,6 @@
 # Imperator
 
-Imperator is an internal tool to easily see client information in one place. With this dashboard you can automate internal processes such as extending trails, following up emails to canceled clients, discount offers, resetting passwords, updating client info, GDPR for company’s data, and display information from various APIs. Solving the issue of manually going through multiple processes and systems to update this information. Imperator was a group project completed fully remotely in a two-week sprint.
+Imperator is an internal tool to easily see client information in one place. With this dashboard you can automate internal processes such as extending trials, follow-up emails to canceled clients, discount offers, resetting passwords, updating client info, GDPR for company’s data, and displaying information from various APIs. Solving the issue of manually going through multiple processes and systems to update this information. Imperator was a group project completed fully remotely in a two-week sprint.
 
 See the deployed version on [Heroku](https://stormy-tundra-88052.herokuapp.com/#/operational)
 
